@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Customer Retention & Revenue Intelligence Audit
@@ -423,4 +422,4 @@ Established a strategic watchlist for declining enterprise accounts.
 # SEO Keywords
 
 Commercial Analyst Portfolio, Revenue Intelligence, Customer Retention Audit, Cohort Analysis, Business Intelligence Consultant, Retail Analytics, DTC Revenue Strategy, Customer Lifetime Value, Power BI Portfolio, Revenue Concentration Analysis, Customer Economics, Sales Performance Intelligence, SaaS Churn Analysis.
-```
+
