@@ -2,7 +2,7 @@
 
 # Customer Retention & Revenue Intelligence Audit
 
-## Investigating Revenue Concentration & Lifecycle Sustainability in High-Growth Environments
+## Strategic Investigation: Is Customer Quality Strong Enough to Sustain Growth?
 
 </div>
 
