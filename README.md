@@ -29,9 +29,9 @@ As a result, organizations often:
 
 # Objective:
 
-This case study investigates a critical commercial problem using the sales data of a subscription-based B2B company:
+This case study investigates a critical commercial problem using the sales data of a B2B company:
 
-> **Strong top-line growth occurring simultaneously with deteriorating customer quality.**
+> **Strong revenue growth occurring alongside declining customer quality.**
 
 Through <b>Cohort Intelligence</b> and <b>Customer Economics</b>, this framework identifies why the business experienced a <b>20.55% decline in Top-Tier revenue</b> despite significant increases in overall revenue and customer growth.
 
