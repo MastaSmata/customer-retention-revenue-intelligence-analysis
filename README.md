@@ -376,8 +376,6 @@ Established a strategic watchlist for declining enterprise accounts.
 
 # Tech Stack & Analytical Methodologies
 
-## Business Intelligence
-
 - Power BI
 - DAX
 - Advanced Time Intelligence
@@ -392,12 +390,6 @@ Established a strategic watchlist for declining enterprise accounts.
 - RFM Modeling
 - Customer Retention Intelligence
 - Churn Risk Strategy
-
----
-
-# Final Consultant Insight
-
-> **Growing customer count is a vanity metric. Growing customer quality is a sanity metric. The most dangerous business problems are often hidden beneath strong headline revenue growth.**
 
 ---
 
