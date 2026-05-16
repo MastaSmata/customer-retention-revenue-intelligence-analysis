@@ -26,6 +26,15 @@ As a result, organizations often:
 - weaken long-term profitability,
 - and build unstable revenue structures.
 
+---
+
+<div align="center">
+
+<img width="90%" alt="Customer Quality Decline Dashboard" src="https://github.com/user-attachments/assets/d685e12e-7e8a-4573-abf3-a7a9f7d9220c" />
+
+</div>
+
+---
 
 # Objective:
 
@@ -61,12 +70,6 @@ toward:
 
 ---
 
-<div align="center">
-
-<img width="90%" alt="Customer Quality Decline Dashboard" src="https://github.com/user-attachments/assets/d685e12e-7e8a-4573-abf3-a7a9f7d9220c" />
-
-</div>
----
 
 # 📍 1. Organizations must evaluate customer quality, not just customer growth.
 
