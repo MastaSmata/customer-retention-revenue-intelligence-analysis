@@ -6,20 +6,19 @@
 
 # Business Problem — The “Growth Paradox”
 
-In high-growth Retail and DTC environments, headline revenue often masks structural decay.
+Many organizations measure success using:
 
-Many organizations evaluate commercial performance using:
-- customer acquisition volume,
-- top-line revenue growth,
-- and short-term expansion metrics,
+- customer growth,
+- revenue growth,
+- and short-term expansion,
 
-without assessing whether underlying customer quality is strengthening or deteriorating over time.
+without evaluating whether customer quality is actually improving over time.
 
-This creates a hidden structural risk where businesses continue scaling acquisition while:
-- customer lifetime value weakens,
-- retention quality declines,
-- purchasing consistency deteriorates,
-- and long-term revenue sustainability erodes underneath the surface.
+This creates a hidden risk where businesses continue growing while:
+
+- customer loyalty weakens,
+- repeat purchases decline,
+- and long-term revenue becomes less stable.
 
 As a result, organizations often:
 - over-invest in acquisition-heavy growth,
