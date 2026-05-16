@@ -1,10 +1,6 @@
-<div align="center">
-
 # Customer Retention & Revenue Intelligence Audit
 
 ## Strategic Investigation: Is Customer Quality Strong Enough to Sustain Growth?
-
-</div>
 
 ---
 
@@ -387,12 +383,6 @@ Established a strategic watchlist for declining enterprise accounts.
 - Advanced Time Intelligence
 - Dynamic Segmentation
 
-## Data Engineering & Analytics
-
-- Python
-- Pandas
-- NumPy
-- SQL
 
 ## Analytical Methodologies
 
