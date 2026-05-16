@@ -28,14 +28,6 @@ As a result, organizations often:
 
 ---
 
-<div align="center">
-
-<img width="90%" alt="Customer Quality Decline Dashboard" src="https://github.com/user-attachments/assets/d685e12e-7e8a-4573-abf3-a7a9f7d9220c" />
-
-</div>
-
----
-
 # Objective:
 
 This case study investigates a critical commercial problem using the sales data of a B2B company:
@@ -126,6 +118,16 @@ The diagnostic dashboard below exposes this structural weakness by identifying a
 
 </tr>
 </table>
+
+---
+
+
+<div align="center">
+
+<img width="90%" alt="Customer Quality Decline Dashboard" src="https://github.com/user-attachments/assets/d685e12e-7e8a-4573-abf3-a7a9f7d9220c" />
+
+</div>
+
 
 ---
 
