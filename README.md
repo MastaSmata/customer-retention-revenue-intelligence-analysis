@@ -1,4 +1,4 @@
-# Customer Retention & Revenue Sustainability Intelligence Framework
+# Case Study: Improving Revenue Sustainability Through Customer Retention Analysis
 
 ## A Strategic Framework for Diagnosing Customer Quality, Retention Economics, and Long-Term Revenue Stability
 
